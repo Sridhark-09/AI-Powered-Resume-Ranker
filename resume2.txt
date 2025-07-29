@@ -1,0 +1,18 @@
+Name: Riya Patel
+Email: riya.patel@email.com
+
+Objective:
+Front-end developer passionate about creating responsive web designs.
+
+Skills:
+- HTML, CSS, JavaScript, React
+- Figma, UI/UX
+- Git, GitHub
+
+Experience:
+Web Developer Intern at WebCraft
+- Designed landing pages and interactive components using React.
+- Collaborated with backend developers to improve load times.
+
+Education:
+B.Tech in Information Technology, 2022

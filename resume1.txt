@@ -1,0 +1,19 @@
+Name: Aryan Sharma
+Email: aryan.sharma@email.com
+
+Objective:
+Seeking a Python Developer role where I can apply my skills in data analysis, machine learning, and NLP.
+
+Skills:
+- Python, Pandas, NumPy, scikit-learn
+- Natural Language Processing
+- Data Visualization (Matplotlib, Seaborn)
+- Git, Jupyter Notebook
+
+Experience:
+Software Developer Intern, DataX Pvt Ltd
+- Built a machine learning model to classify customer feedback using scikit-learn and NLP.
+- Automated data cleaning tasks using pandas.
+
+Education:
+B.Tech in Computer Science, 2023
